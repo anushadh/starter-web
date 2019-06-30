@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Learning from Udemy
+This repository is for showing how Git and GitHub work. Learning from Udemy, then more changes
 
 ## Introduction
 
