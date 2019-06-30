@@ -11,3 +11,7 @@ Learning how to use Git and GitHub by creating a sample project
 Sample website with plenty of files for demos
 
 ## Deployment
+
+### Copyright
+
+2019 Git.Learning
