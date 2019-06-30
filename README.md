@@ -12,6 +12,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Deployment can be on web server or local server
+
 ### Copyright
 
 2019 Git.Learning
