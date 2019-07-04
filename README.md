@@ -16,4 +16,4 @@ Deployment can be on web server or local server
 
 ### Copyright
 
-2019 Git.Learning
+2019 Git.Learning. All rights reserved.
